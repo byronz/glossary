@@ -1,8 +1,11 @@
 # Glossary
 
-**Glossary** is a small app to import, edit and output the glossary in a user 
-frienly way. The main usage of glossary is to create a full list of 
-terms/abbreviation/acrynom used in the PGVV domain.
+**Glossary** is a small application to help organizing your glossary in a convenient
+way. As a new hire in the medical device industry, the first tough challenge is the
+endless terminology list which sometimes is hard to memorize in a short time. This small
+gadget would help on merging diffrent glossary list from various sources (excel, doc, csv),
+manage the conflict with same term several abbreviations, and transfer the data into a 
+nice layout with markdown or reStructuredText. 
 
 ## Data
 
@@ -11,6 +14,8 @@ map. However it might happen that a same key here an abbreviation has more than
 one value; e.g. AMD might be a famous silicon company or means Asset Management
 Device in CRV. 
 
+    Term: [Def1, ]
+
 ## Input
 
 Several glossary sources are available inside the company in CSV files. it 
@@ -18,16 +23,19 @@ would be helpful to directly import the glossary from a preformmated file.
 
 - CSV
 - JSON
-- HTML
+- YAML
 
-## Format
+## Data Storage
 
 **Glossary** uses [YAML](http://yaml.org/spec/1.2/spec.html) to store the data 
 structure (dictionary or hash map). Yaml is very easy to edit with any text 
-editor. 
+editor; it is also easy to transfer to JSON, CSV or other data format. 
 
-    MAOV: model as orcale verifier
-    TTM: telemetry model
+    MAOV:
+    - Model As Orcale Verifier
+
+    TTM: 
+    - Telemetry Model
 
 ## Edit
 
