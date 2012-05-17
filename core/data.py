@@ -1,33 +1,12 @@
 #!/usr/bin/python
 
-import yaml
-
-from utils.safefile import *
+from core.yamlagent import YamlAgent
 
 data = {
     "MAOV": ["Model As Oracle Verification",],
     }
 
-class SafeReadText(object):
-    """decorator to read file with context manager"""
-    def __init__(self, func):
-        self.func = func
-
-    def __call__(self, path):
-        with open(path, 'rt') as _fp:
-            return self.func(self, _fp)
-
-class SafeWriteText(object):
-    """decorator to write file with context manager"""
-    def __init__(self, func):
-        self.func = func
-
-    def __call__(self, path):
-        """docstring for __call__"""
-        with open(path, 'wt') as _fp:
-            return self.func(self, _fp)
-
-class Data(object):
+class Data(YamlAgent):
     """Data class defines the main data structure, includes the major
        methods to manipulate the data including merge and export.
 
@@ -38,15 +17,6 @@ class Data(object):
         self.data_format = data_format
 
         self.glossary = load_data(path)
-
-    @SafeReadText
-    def load_data(self, fp):
-        """docstring for load_data"""
-
-
-    def dump_data(self):
-        """docstring for dump_data"""
-        pass
 
     def merge(self, files):
         """merge files, dump the merged glossary data
