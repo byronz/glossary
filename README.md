@@ -39,6 +39,9 @@ editor; it is also easy to transfer to JSON, CSV or other data format.
 
 1. Text Editor is the most evident way to modify the YAML source
 
+note:
+    *the first step has no consideration to design any GUI to edit the glossary.* 
+
 ## Merge
 
 The glossary file is shared across several teams and the amount of 

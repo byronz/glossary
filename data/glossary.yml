@@ -1,0 +1,417 @@
+ACR:
+- Athena Change Request
+AGB:
+- Agile Governance Board
+AHP:
+- Allied Health Professional (In Client user of Latitude)
+AICD:
+- Automatic Implantable Cardioverter Defibrillator
+ANZ:
+- Australia and New Zealand
+APM:
+- Advanced Patient Management  
+ARS:
+- Application Research Studies
+- Application Requirement Specification
+AU:
+- Australia deployment, which supports Australia and New Zealand
+Acuity:
+- Left Ventricle lead
+Atlas:
+- Intermittent Pacing
+BAA:
+- Business Associate Agreement
+BAT:
+- Build Acceptance Test
+BOM:
+- Bill of Materials
+BPB:
+- Business Process Board
+BPT:
+- Business Planning Team  
+BSC:
+- Boston Scientific Corp.
+BYD:
+- Build Your Dream  Company manufacturing Sentina
+Baseline:
+- An approved revision of a document or source file from which subsequent changes
+    can be made
+Brady:
+- Implantable cardiac pulse generators (pacemaker) for abnormally slow heart rate;
+    usually defined as a rate less than 60 bpm or a rate that is too slow to be physiologically
+    appropriate for a person and/or an activity. (bradycardia or bradyarrhythmia)  Cardiac
+    Resynchronization Therapy (CRT) with leads in the Right Atrium and Right Ventricle.
+Branch:
+- Branches are spawned from trunk (or other branch) in order to concentrate on stabilizing
+    the tree for release or to start implementing long-term (possibly throw away)
+CA:
+- Canada deployment, which supports Canada
+CAPA:
+- Corrective Action Preventive Action
+CARS:
+- Clinical Application Research Studies
+CCB:
+- Change Control Board
+CDC:
+- China Delivery Center  
+CDT:
+- Cardiac Device Telematics
+CFR:
+- Code of Federal Regulations
+CIS:
+- Clinical Information System 
+CLOC:
+- Commented lines of code 
+CMS:
+- Compensation Management System
+COA:
+- Course of Action
+COGS:
+- Cost of Goods Sold
+CPT:
+- CRM Portfolio Team  
+CRM:
+- Cardiac Rhythm Management
+CRT:
+- Cardiac Resynchronization Therapy
+CRT-D:
+- Cardiac Resynchronization Therapy Defibrillator 
+CSC:
+- Customer Support Center
+CV:
+- Cardiovascular 
+Cognis:
+- Cardiac Resynchronization Therapy Defibrillator (CRT-D) 
+Communicator:
+- Device in patients home which communicates with the PG and transmits status information
+  over a phone line. Able to communicate wirelessly to weigh scale and blood pressure
+  cuff systems
+CRT-P:
+- Cardiac Resynchronization Therapy Pacemaker (CRT-P)
+DAO:
+- Data Access Object
+DAT:
+- Design Analysis Testing
+DB:
+- Data Base
+DBA:
+- Database Administrator
+DCF:
+- Data Collection Failure
+DES:
+- Drug-Eluting Stent
+DHF:
+- Design History File
+DIOH:
+- Inventory system
+DOP:
+- Detail Operating Procedures
+DOS:
+- Design Output Specification
+DPO:
+- Days Payable Outstanding 
+DR:
+- Data Request  
+DRC:
+- Design Review C  
+DSO:
+- Days Held Outstanding  
+DVT:
+- Design Verification Test  
+Dev:
+- Development
+Dry run:
+- Informal round of testing to cleanup issues in protocols, tests
+EAI:
+- Enterprise Application Integration.
+EDP:
+- Event Driven Processing
+EFR:
+- Equipment for Review
+EGM:
+- Electro gram, internal lead signals
+EMR:
+- Electronic Medical Record
+EOL:
+- End of Life
+EOS:
+- End of Service
+ESD:
+- Electrostatic Discharge
+EU:
+- European Union - Europe deployment, which supports 15 European countries
+EasyTrak:
+- Left Ventricle lead
+FAC:
+- Field Action Committee
+FDA:
+- Food and Drug Administration
+FHV:
+- Follow-up History View
+Formal:
+- Formal round of testing before the product is implemented
+GDC:
+- General Design Constraints
+GTMS:
+- Guidant Training Management System
+GTR:
+- General Technical Requirements
+HIPAA:
+- Health Insurance Portability and Accountability Act
+HL7:
+- Health Level 7 is an ANSI-recognized standards writing organization for Medical
+  Informatics.
+HRA:
+- Hazard Risk Analysis
+HV:
+- High Voltage
+Heart Failure:
+- Situation when the heart is not able to deliver enough blood at normal pressures
+  toe meet the body metabolic demands - The PG is always pacing with leads in the
+  Right Atrium, Right Ventricle and Left Ventricles to maintain proper rhythm across
+  heart.
+Hercules:
+- Text editor for creating/editing *.xml protocols and generating python-coded test
+  protocols for Gtest
+IBP:
+- Integrated Business Plan
+ICD:
+- Implantable Cardioverter Defibrillator
+IDC:
+- India Delivery Center  Accenture
+Ingenio:
+- New Pacemaker  RF Enabled
+Insignia:
+- Legacy Pacemaker
+Jira:
+- SCR Tracking system
+KDPD:
+- Knowledge Driven Product Development
+KMS:
+- Key Management System.
+LCS:
+- LATITUDE Customer Support
+LDS:
+- Lead Delivery Systems (catheters)
+LOC:
+- Lines of code (including white space)
+LPA:
+- Latitude Performance Assurance
+LPI:
+- Latitude PaceArt Integration (PaceArt is Medtronics app which consolidates data
+  from St. Jude, Medtronic and BSC in a clinic)
+Latitude:
+- Patient Management System & external instrumentation
+Leads:
+- Insulated wire used to connect the PG to the cardiac tissue.  Transmits energy to
+  the myocardium and relays signals back to the PG sensing circuit.
+MACHSIM:
+- Multichamber Advanced Capability Heart Simulator - heart simulator that connects
+  to a PG
+MDDS:
+- Medical Device Data System
+MIG:
+- Master Image Generation
+NA:
+- North America
+NCLOC:
+- Non-Commented lines of code (only lines of executable code)
+NGP:
+- New Generation Programmer
+OUS:
+- Outside United States
+Other BSC:
+- Implantable cardiac pacing and defibrillation leads, Stents and other therapies
+PADR:
+- Performance Achievement and Development Review
+PDM:
+- product data management 
+PDP:
+- Product Development Program
+PEC:
+- Product Evaluation Committee
+PEI:
+- Patient Equipment Information
+PFR:
+- Patients for Review  Main page in Latitude
+PG:
+- Pulse Generator
+PHI:
+- Protected Health Information
+PIB:
+- Project Investment Board
+PID:
+- Patient Identifier  
+PII:
+- Patient Initiated Interrogation
+PKI:
+- Public Key Infrastructure  digital certificates, certificate authorities, and other
+    registration authorities that authenticate each party involved in an electronic
+    transaction
+PLE:
+- Product Line Engineering
+PLM:
+- Product Line Model, also called Product Line Engineering
+PMA:
+- Pre-market approval
+PPC:
+- Product Performance Committee
+PRA:
+- Product Release Approval
+PRM:
+- Programmer Recorder Monitor
+PRS:
+- Programmer Requirements Specification
+PT:
+- Patient
+PVCS Tracker:
+- Tool used to track and manage SCRs & DRs
+PVCS Version Manager:
+- Program Version Control System 
+Payload:
+- XML representation of patient data
+PrecisionPlus:
+- Pain Management  Spinal cord stimulation system
+Programmer:
+- Device used in clinic to read and program the PG
+Promus:
+- Coronary Stent System - third-generation drug-eluting stent (DES) technology
+Protocol:
+- One or more tests that are meant to run during actual testing
+PuTTY:
+- Tool to connect to a unix server thru a pc
+QTP:
+- Mercury Quick Test Professional - automated test tool
+RACI:
+- Responsibility, Accountable, Consulted, Informed
+RAPID:
+- Recommend, Agree, Perform, Input, Decide
+RAPIDO:
+- Lead guiding catheter system
+RAS:
+- Regulated Application Server 
+RASDVT:
+- Sub-System Design Verification Test of RAS Tests Subsystem Requirements (Art)
+RDM:
+- Remote Device Management
+REA:
+- Ripple Effect Analysis  
+RF:
+- Radio Frequency  
+RGB:
+- RTC Governance Board
+ROM:
+- Rough Order of Magnitude 
+RRP or URRP:
+- Raw Register Programmer 
+RTC:
+- Rational Team Concert
+RTR:
+- Real Time Review
+Red Alert:
+- XML representation of patient data who has a warning or alert
+Reliance G:
+- ICD lead (Reliance, Reliance S, Reliance EZ, Reliance SEZ)
+SAM:
+- System Asset Manager 
+SAP:
+- Systems, Applications, and Products
+SAS:
+- Supplemental Application Server - earlier name given to RAS.
+SCD:
+- Sudden Cardiac Death
+SCM:
+- Software Configuration Management
+SCR:
+- System Change Request 
+SEP:
+- System Evaluation Plan
+SMR:
+- Software Maintenance Release
+SOP:
+- Standard Operating Procedures
+SOS:
+- System of Systems also Scrum of Scrums
+SRA:
+- Safety Risk Analysis
+SRD:
+- System Research Device
+SRS:
+- Software Requirements Specification
+SSO:
+- Single sign-on
+SWO:
+- Special Work Order  
+SYSDAT:
+- System Design Analysis Testing
+SYSDVT:
+- System Design Verification Test  
+System:
+- System
+TDP:
+- Technology Development Program
+TMS:
+- Traceability Management System 
+TOAD:
+- SQL editor used to query database
+TRR:
+- Test Readiness Review
+TTM:
+- Telemetry Test Module
+TWiKi:
+- Website contains all the project related data
+TZM:
+- Time Zone Management
+Tachy:
+- A pathologic or physiologic rapid heart rate, typically greater than 100 bpm (Tachycardia).High
+  Voltage Pulse Generator (HVPG)  Implantable Cardiac Defibrillators (ICD) with
+  leads in the Right Atrium and Right Ventricle.
+Taxus:
+- Drug-eluting stent (DES) technology
+Teligen:
+- Implantable Cardioverter Defibrillator (ICD) 
+Test:
+- QTP script for the protocol
+UC:
+- Use Case  form of requirements
+UEMR:
+- Universal Electronic Medical Records
+UIS:
+- User Interface Specification  
+UIT:
+- Unit and Integration Testing
+UP:
+- User Parameter 
+URL:
+- Uniform Resource Locater
+US:
+- Deployment which support the United States
+UVO:
+- User Visible Observation
+V&SU:
+- Validation and Scale-up
+V&V:
+- Verification and Validation
+VNC:
+- Virtual Network Computing  
+VOB:
+- Voice of the Business
+VOC:
+- Voice of the Customer
+Validation:
+- Proves that the device/system design specifications meet defined user needs and
+  intended uses
+Verification:
+- Confirms the device/system design meets design input requirements.
+WAS:
+- Web Application Server 
+WASDVT:
+- Sub-System Design Verification Test of WAS  
+WebDAV:
+- Web-based Distributed Authoring and Versioning.  
+Windchill:
+- System for managing documents & peer reviews
+XML:
+- Extensible Markup Language
+XP:
+- Extreme Programming

@@ -12,7 +12,6 @@ Example:
 
 import argparse
 
-from core.data import Data
 
 __version__ = '0.1'
 
@@ -20,14 +19,10 @@ def main():
     """
     glossary app parses the arguements from command lines, do the
     corresponding operations.
+    mac-roman  decoding
     """
-    data = Data()
     args = get_args()
-
-    if args.merge_files:
-        data.merge(args.merge_files, args.data_format)
-    else:
-        data.export(args.export_file, args.data_format)
+    print args
 
 def get_args():
     """get the arguements by argparse module"""
