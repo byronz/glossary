@@ -1,5 +1,22 @@
 ACR:
 - Athena Change Request
+AVHB:
+- atrioventricular herat block
+AMI:
+- acute myocardial infarction
+BBB:
+- bundle branch block
+LQTS:
+- long QT interval syndrome, congenital or acquired
+RBBB:
+- right bundle branch block
+LAFB:
+- left anterior fascicular block
+LPFB:
+- left posterior fascicular block
+LBBB:
+- left bundle branch block
+
 AGB:
 - Agile Governance Board
 AHP:
@@ -292,6 +309,12 @@ RAS:
 - Regulated Application Server 
 RASDVT:
 - Sub-System Design Verification Test of RAS Tests Subsystem Requirements (Art)
+VT:
+- ventricular Tachycardia
+SVT:
+- supraventricular Tachycardia
+PA:
+- pulmonary artery
 RDM:
 - Remote Device Management
 REA:

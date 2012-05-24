@@ -1,45 +1,70 @@
 #!/usr/bin/python
 
+import re
+from os.path import sep, abspath
+
 from core.yamlagent import YamlAgent
+from core.listmap import ListMap
+from core.rest import ReST
+from core.decorators import SafeRead, SafeWrite
 
-data = {
-    "MAOV": ["Model As Oracle Verification",],
-    }
+class LoadYamlError(Exception):
+    pass
 
-class Data(YamlAgent):
-    """Data class defines the main data structure, includes the major
-       methods to manipulate the data including merge and export.
+class GlossaryData(ListMap, YamlAgent):
+    """aadada"""
+    def __init__(self, path):
+        super(GlossaryData, self).__init__()
 
-       #Data Structure
-            {Term: [Def1, ...],}
-    """
-    def __init__(self, data_format, path='./data/glossary.yml'):
-        self.data_format = data_format
+        self.path = path
+        self.wordpat = re.compile("[0-9a-zA-Z_-]+")
+        self.keyset = set(self.keys())
+        self.rst = ReST()
 
-        self.glossary = load_data(path)
+    def load_yaml(self, yamlpath):
+        """load yaml file"""
+        if not yamlpath:
+            yamlpath = self.path
 
-    def merge(self, files):
-        """merge files, dump the merged glossary data
+        try:
+            self.update(self.load(yamlpath))
+        except Exception:
+            raise LoadYamlError
 
+    @SafeWrite
+    def write(self, path, buf):
+        path.write(buf)
+
+    def build_markup(self, markup='rst', output="./output"):
+        """docstring for build_md"""
+        if markup not in ('rst', 'md'):
+            return
+
+        _method = getattr(self, "build_{}".format(markup))
+        _output = abspath(
+                sep.join((output, 'glossary.{}'.format(markup))))
+
+        self.write(_output, _method())
+
+    def build_md(self, template='./templates/glossary.md'):
+        content = []
+        for abbr, descriptions in self.data.iteritems():
+            
+        _pat_md = re.compile("^(.*?) @")
+
+    def index_descriptions(self, descriptions):
         """
-        [self.merge_file(file_) for file_ in files if is_valid(file_)]
-
-
-    def compare_datum(self, current, merging):
-        """return True if two data set have intersection"""
-        return set(current.keys()).intersection(merging.keys())
-
-    def merge_file(self, file_):
-        """glossary data is merged with file_
-
-        solve two problems: key conflicts and value update
-
-        Args:
-            file_: merging file path
-
-        Returns:
-            None
         """
-        self.merging_data = getattr(self, 'get_%s' % self.data_format)(file_)
+        #['asdada','aa adad @asa']
+        buf = []
+        for description in descriptions:
+            for indexed_word in re.findall(self.wordpat, description):
+                if indexed_word in self.keyset:
+                    description.
+        if word in self.keyset:
+            return self.rst.implicit_hyperlink(word)
+        else:
+            return word
 
-        if self.compare_datum(self.glossary,
+if __name__ == '__main__':
+    pass

@@ -8,7 +8,7 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
-from glossary.core.decorators import SafeRead, SafeWrite
+from core.decorators import SafeRead, SafeWrite
 
 class YamlAgent(object):
     """stand way to load and dump yaml files"""

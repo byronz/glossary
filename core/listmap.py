@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
+import types
 from UserDict import UserDict
+
 class ListMap(UserDict):
     """Customized dictionary to set item in a list"""
     def __init__(self, **args):
@@ -12,8 +14,16 @@ class ListMap(UserDict):
         self.data[key].append(item)
 
     def update(self, data):
-        """update here only accept a dictionary"""
-        [self._merge(k,v) for k,v in data.iteritems()]
+        """update here only accepts a dictionary or a nested list/tuple"""
+        if isinstance(data, (types.ListType, types.TupleType)):
+            [self._merge(*item) for item in data]
+        elif isinstance(data, types.DictType):
+            [self._merge(k,v) for k,v in data.iteritems()]
+
+        self._update_attributes()
+
+    def _update_attributes(self):
+        [setattr(self, k, v) for k,v in self.data.iteritems()]
 
     def _merge(self, key, value):
         """merge the given key-value with current data
@@ -21,7 +31,7 @@ class ListMap(UserDict):
         2. new key
         """
         if key in self.data:
-            if iterable(value):
+            if isinstance(value, (types.ListType, types.TupleType)):
                 self.data[key].extend(value)
             else:
                 self.data[key].append(value)
