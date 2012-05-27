@@ -12,7 +12,9 @@ class ListMap(UserDict):
         if key not in self.data:
             self.data[key] = []
         self.data[key].append(item)
-
+    def sort(self):
+        for k in self.data.keys():
+            self.data[k].sort()
     def update(self, data):
         """update here only accepts a dictionary or a nested list/tuple"""
         if isinstance(data, (types.ListType, types.TupleType)):
@@ -35,6 +37,7 @@ class ListMap(UserDict):
                 self.data[key].extend(value)
             else:
                 self.data[key].append(value)
+            #eliminate the duplicated description
             self.data[key] = list(set(self.data[key]))
         else:
             self.data[key] = []

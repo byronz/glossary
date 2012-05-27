@@ -22,7 +22,7 @@ class YamlAgent(object):
         """docstring for dump"""
         yaml.dump(
             data, path, Dumper=Dumper, indent=4,
-            canonical=True, default_flow_style=False)
+            default_flow_style=False)
 
 if __name__ == '__main__':
     ya = YamlAgent()

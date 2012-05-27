@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
 class Markup(object):
-    """various markup specifications share a basic common syntax 
+    """various markup specifications share a basic common syntax
     """
     NEWLINE = '\n' #python way
     INDENT_SPACES = ' '*4
 
-    def strong_emphasis(self, text):   
+    def strong_emphasis(self, text):
         """bold"""
         return "**%s**" % text + self.NEWLINE
 
@@ -15,7 +15,7 @@ class Markup(object):
         return "*%s*" % text + self.NEWLINE
 
     def transition(self):
-        return '-' * 6
+        return '-' * 6 + self.NEWLINE
 
     #Lists: bulleted list,  enumerated list, definition
     def bulleted_list(self, list_, indent=0 , bullet_char='-'):
@@ -48,4 +48,4 @@ class Markup(object):
 if __name__ == '__main__':
     markup = Markup()
 
-    print markup.bulleted_list(list('adaddd')) 
+    print markup.bulleted_list(list('adaddd'))

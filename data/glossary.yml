@@ -1,59 +1,160 @@
+AA:
+- acceptance activities
+AA+:
+- Atrial Arrhythmia Management Plus
+AAMI:
+- Association for the Advancement of Medical Instrumentation
+ABM:
+- Automatic Balance Monitor
+ACC:
+- American College of Cardiology
+ACL:
+- Atrial Cycle Length
+ACN:
+- Artwork Control Number
 ACR:
 - Athena Change Request
-AVHB:
-- atrioventricular herat block
-AMI:
-- acute myocardial infarction
-BBB:
-- bundle branch block
-LQTS:
-- long QT interval syndrome, congenital or acquired
-RBBB:
-- right bundle branch block
-LAFB:
-- left anterior fascicular block
-LPFB:
-- left posterior fascicular block
-LBBB:
-- left bundle branch block
-
+ADA:
+- Advanced Deviation Authorization
+ADAM:
+- advanced data analysis and management
+ADC:
+- Automatic Data Collection
+ADE:
+- adverse device effect
+AE:
+- adverse event
+AEG:
+- Advanced Engineering Group
+AEI:
+- Atrial Escape Interval
+AF:
+- Atrial Fibrillation
+AFL:
+- Atrial Flutter
+AFP:
+- Atrial Flutter Protection
+AFR:
+- Atrial Flutter Response
 AGB:
 - Agile Governance Board
+AGC:
+- Automatic Gain Control
 AHP:
 - Allied Health Professional (In Client user of Latitude)
 AICD:
 - Automatic Implantable Cardioverter Defibrillator
-ANZ:
-- Australia and New Zealand
+AIMDD:
+- Active Implantable Medical Device Directive
+AMI:
+- acute myocardial infarction
+ANS:
+- autonomic nervous system
 APM:
-- Advanced Patient Management  
+- Advanced Patient Management
+APP:
+- Atrial Protection Period
+- Atrial Pacing Preference
+APVDP:
+- Atrial post ventricular decision point
+AQL:
+- acceptable quality level
+AR:
+- annual report
+ARC:
+- Atrial Rhythm Classification
+ARP:
+- Atrial Refractory Period
 ARS:
-- Application Research Studies
 - Application Requirement Specification
-AU:
-- Australia deployment, which supports Australia and New Zealand
+- Application Research Studies
+ASF:
+- ambulatory surgical facility
+AT:
+- Atrial Tachycardia
+- anaerobic threshold
+ATD:
+- Atrial & Ventricular Arrhythmia Defibrillator
+ATP:
+- Anti-Tachycardia Pacing
+ATR:
+- Atrial Tachycardia Response
+ATS:
+- Automated Test Software
+ATT:
+- automatic threshold test
+AV:
+- Atrial Ventricular
+AVHB:
+- atrioventricular herat block
+AVI:
+- AV interval
+AVT:
+- Atrial Ventricular Therapy
+AWA:
+- Animal Welfare Act
 Acuity:
 - Left Ventricle lead
+Afib:
+- Atrial Fibrillation Detection
+Ah:
+- ampere-hour
+Amp:
+- ampere
+Ap:
+- Atrial Pace
+As:
+- Atrial Sense
 Atlas:
 - Intermittent Pacing
 BAA:
 - Business Associate Agreement
+BAG:
+- Beep-a-gram
+BAQP:
+- business alliance quality plan
 BAT:
 - Build Acceptance Test
+BBB:
+- bundle branch block
+BCL:
+- burst cycle length
+BFP:
+- back flush point
+BIM:
+- business integration methodology
+BOD:
+- bill of documents
+BOL:
+- Beginning Of (battery) Life
 BOM:
 - Bill of Materials
+BP:
+- blood pressure
 BPB:
 - Business Process Board
+BPM:
+- Beats Per Minute
 BPT:
-- Business Planning Team  
+- Business Planning Team
+BRM:
+- biomedical research monitoring
 BSC:
-- Boston Scientific Corp.
+- Boston Scientific Corporation
+BSI:
+- British Standards Institute
+BT:
+- Bi-Ventricular Trigger
+BV:
+- Bi-Ventricular
+BVD:
+- Bi-Ventricular Delay
 BYD:
-- Build Your Dream  Company manufacturing Sentina
-Baseline:
-- An approved revision of a document or source file from which subsequent changes
-    can be made
+- Build Your Dream
+BiV:
+- Bi-Ventricular
 Brady:
+- Bradycardia Slow Heart Rate (Pacemaker needed)
 - Implantable cardiac pulse generators (pacemaker) for abnormally slow heart rate;
     usually defined as a rate less than 60 bpm or a rate that is too slow to be physiologically
     appropriate for a person and/or an activity. (bradycardia or bradyarrhythmia)  Cardiac
@@ -62,193 +163,959 @@ Branch:
 - Branches are spawned from trunk (or other branch) in order to concentrate on stabilizing
     the tree for release or to start implementing long-term (possibly throw away)
 CA:
+- change activity
+- Corrective Actions (CA)
 - Canada deployment, which supports Canada
+CAAM:
+- component assembly acceptance matrix
+CABG:
+- coronary artery bypass graft
+CAD:
+- Coronary Artery Disease
+- computer aided design
+CAE:
+- computer aided engineering
+CALS:
+- computer aided logistics system
+CAN:
+- Corrective Action Notice
 CAPA:
-- Corrective Action Preventive Action
+- corrective and preventive action (core QS term)
+CAR:
+- cross-functional corrective action request (CAR)
+- Corrective Action Request
 CARS:
 - Clinical Application Research Studies
+CAS:
+- Consecutive Atrial Sense
+CBT:
+- computer based Training
 CCB:
 - Change Control Board
+CCI:
+- Cardiac Cycle Interval
+CCT:
+- Cross Channel Tracking
+CD:
+- Cardiac Defibrillator
+CDA:
+- clinical data assistant
 CDC:
-- China Delivery Center  
+- clinical data coordinator
+- China Delivery Center
+CDM:
+- contract designer/manufacturer
+CDRH:
+- center for devices and radiological health
+CDS:
+- clinical data specialist
 CDT:
 - Cardiac Device Telematics
+CDW:
+- cross-talk detection window
+CE:
+- clinical engineer
+CEA:
+- controlled environment area
+CENELEC:
+- European electrotechnical standardization health
+CER:
+- consistent energy requirement
+- Cardioversion Energy Requirement
+CF:
+- capacitor reformation or cap form
+CFC:
+- chloro-fluoro carbons
+CFF:
+- Common File Format
 CFR:
 - Code of Federal Regulations
+CGA:
+- compressed gas association
+CHF:
+- Congestive Heart Failure
+CI:
+- change issue
+CID:
+- Communication Interface Document
+CIP:
+- clinical investigation plan
+CIR:
+- capital investment request
 CIS:
-- Clinical Information System 
+- Clinical Information System
+CISPR:
+- international special committee on radio interference
+CJ:
+- change justification
+CLIA:
+- clinical laboratory improvement act
 CLOC:
-- Commented lines of code 
+- Commented lines of code
+CM:
+- contract manufacturer
+CMA:
+- configuration management administrator
+CMOS:
+- complementary metal oxide semiconductor
 CMS:
 - Compensation Management System
+CO:
+- change order
 COA:
 - Course of Action
+COB:
+- close of business
+CODAC:
+- compliance organization database and control
 COGS:
 - Cost of Goods Sold
+COPD:
+- chronic obstructive pulmonary disease
+COPM:
+- cost of product manufactured
+COPR:
+- change order process review
+COPS:
+- cost of product sold
+CP:
+- company policy
+CPD:
+- clinical programs department
+CPI:
+- Cardiac Pacemakers, Inc.
+CPL:
+- clinical project leader
 CPT:
-- CRM Portfolio Team  
+- CRM Portfolio Team
+CPU:
+- central processing unit
+CPX:
+- cardiopulmonary exercise test
+CR:
+- change request
+- clinical representative
+CRA:
+- clinical research associate
+CRAm:
+- clinical research associate monitor
+CRC:
+- Cyclic Redundancy Check
+- center research coordinator
+CRFs:
+- case report forms
+CRIC:
+- corporate records & information center
+- records center
 CRM:
 - Cardiac Rhythm Management
+CRM FAC:
+- CRM field action committee
+CRO:
+- contract research organization
+- clinical research organization
 CRT:
 - Cardiac Resynchronization Therapy
 CRT-D:
-- Cardiac Resynchronization Therapy Defibrillator 
+- Cardiac Resynchronization Therapy Defibrillator
+CRT-P:
+- cardia resynchronization therapy pacemaker
+CS:
+- configuration specialist
+- Cardiac Surgery
+CSA:
+- clinical study administrator
+- Canadian Standards Association
+- Common Software Architecture
 CSC:
 - Customer Support Center
+CSS:
+- clinical study specialist
 CV:
-- Cardiovascular 
+- curriculum vitae
+- Cardiovascular
+CVTL:
+- conditional ventricular tracking limit
 Cognis:
-- Cardiac Resynchronization Therapy Defibrillator (CRT-D) 
+- Cardiac Resynchronization Therapy Defibrillator (CRT-D)
 Communicator:
 - Device in patients home which communicates with the PG and transmits status information
-  over a phone line. Able to communicate wirelessly to weigh scale and blood pressure
-  cuff systems
-CRT-P:
-- Cardiac Resynchronization Therapy Pacemaker (CRT-P)
+    over a phone line. Able to communicate wirelessly to weigh scale and blood pressure
+    cuff systems
+Corlab:
+- corporate laboratory
+DA:
+- destructive analysis or dead on arrival
 DAO:
 - Data Access Object
+DAS:
+- Document Administrative System
 DAT:
 - Design Analysis Testing
+DAV:
+- dynamic AV delay
 DB:
 - Data Base
 DBA:
 - Database Administrator
+DBS:
+- drawn brazed strand
+DBT:
+- device-based testing
+DCC:
+- documentation change control department
 DCF:
 - Data Collection Failure
+DCN:
+- document control number
+DCO:
+- document change order
+DCS:
+- documentation control system
+DD:
+- design document
+DDD:
+- Dual chamber sensing, Dual chamber pacing, and Dual mode of
+DDL:
+- deferred discrepancy log
 DES:
 - Drug-Eluting Stent
+DFD:
+- data flow diagram
+DFP:
+- design for performance
+DFT:
+- Defibrillation Threshold
+- Defibrillation Threshold Testing
 DHF:
 - Design History File
+DHFI:
+- Design History File Index (DHFi)
+DHHS:
+- Department of Health and Human Services of United Kingdom
+DHR:
+- Device History Record
 DIOH:
 - Inventory system
+DIS:
+- draft international standard
+DL:
+- discrepancy log
+DMA:
+- Direct Memory Access
+DMC:
+- data monitoring committee
+DMR:
+- device master record (core QS term)
+DOB:
+- defibrillation output bridge module
+DOCS:
+- document organization and control system
+DOD:
+- date of death/department of defense
+DOE:
+- design of experiment
 DOP:
-- Detail Operating Procedures
+- detailed operating procedure
 DOS:
-- Design Output Specification
+- design output specifications
 DPO:
-- Days Payable Outstanding 
+- Days Payable Outstanding
+DPR:
+- Dual-Port RAM
+DPS:
+- discretionary postmarket surveillance
 DR:
-- Data Request  
+- Dual-Chamber Rate-Adaptive
+- discrepancy report
+- Data Request
+- dual-chamber tachycardia
+- DDDR pacing modality
 DRC:
-- Design Review C  
+- Design Review C
+- design rule check
+DRG:
+- diagnostic rate group
+DRT:
+- Diagnostic Restoration Tool
+DS:
+- DownSize
 DSO:
-- Days Held Outstanding  
+- Days Held Outstanding
+DSP:
+- Digital Signal Processing
+- downsize plus
+DTA:
+- defect trigger analysis
+DUT:
+- device under test
 DVT:
-- Design Verification Test  
+- Design Verification Test
 Dev:
 - Development
-Dry run:
-- Informal round of testing to cleanup issues in protocols, tests
+EAB:
+- ECO approval board
 EAI:
 - Enterprise Application Integration.
+EAM:
+- enterprise asset management
+EAS:
+- electronic article surveillance
+EC:
+- European Community
+- ethics committee
+ECA:
+- engineering change administrator
+ECAR:
+- Equipment Corrective Action Request
+ECD:
+- External Cardioverter Defibrillator
+ECDO:
+- engineering change decision owner
+ECG:
+- Electrocardiogram (from surface)
+ECM:
+- engineering change management
+ECN:
+- equipment configuration number
+ECO:
+- Engineering Change Order
+ECP:
+- equipment control parameter
+ECR:
+- engineering change request
+EDEC:
+-  Error Detection and Correction
+EDIF:
+- electronic design interchange format
+EDMS:
+- Electronic Data Management System
 EDP:
 - Event Driven Processing
+EDR:
+- engineering document release
+EE+A:
+- Expert Ease+ Automatic
+EE+M:
+- Expert Ease+ Manual
+EEA:
+- European Economic Area
+EEC:
+- European Economic Community
+EF:
+- ejection fraction
+EFD:
+- engineered fluid dispensing
 EFR:
 - Equipment for Review
+EFTA:
+- European free trade association
 EGM:
-- Electro gram, internal lead signals
+- Electrogram
+EI:
+- electronic image
+EIA:
+- electronic industries association
+EIR:
+- establishment inspection report
+EKG:
+- Electrocardiogram (from surface)
+EL:
+- Extended Life
+ELN:
+- electronic laboratory notebook
+ELT:
+- endless-loop tachycardia
+EMC:
+- electromagnetic compatibility
+EMD:
+- electromechanical disassociation
+EMEAC:
+- Europe, Middle East, Africa, and Canada
+EMI:
+- Electromagnetic Interference
 EMR:
 - Electronic Medical Record
+EN:
+- European Norm
+EOB:
+- explanation of benefits
 EOL:
-- End of Life
+- End Of (battery) Life
 EOS:
 - End of Service
+EP:
+- Electro physiology
+- electrophysiologist
+EPA:
+- environmental protection agency
+EPR:
+- externals product return or external product repair service
+EPROM:
+- erasable programmable read only memory
+EPS:
+- electrophysiologic study
+ERB:
+- engineering review board
+ERI:
+- Elective Replacement Indicator (battery low)
+ERN:
+- Elective Replacement Near
+ERP:
+- Effective Refractory Period
+ERT:
+- Elective Replacement Time (battery low)
+ESC:
+- European standardization committee
 ESD:
 - Electrostatic Discharge
+ETF:
+- engineering tracking form (ETF),
 EU:
-- European Union - Europe deployment, which supports 15 European countries
+- European union
+EUDAMED:
+- European database for medical devices
 EasyTrak:
 - Left Ventricle lead
+F/U:
+- Follow-up
 FAC:
 - Field Action Committee
+FAI:
+- first article inspection B370
+FASB:
+- financial accounting standards
+FBA:
+- Feature Based Architecture
+FBI:
+- Fallback escape Interval
+FCC:
+- federal communications commission
+FCR:
+- field clincial representative
+FD&C:
+- federal food, drug, and cosmetic
 FDA:
-- Food and Drug Administration
+- Food and Drug Administration (core QS term)
+FDAMA:
+- Food and Drug Administration Modernization Act
+FDD:
+- Feature Design Document
+FDN:
+- Field Discrepancy Notification
 FHV:
 - Follow-up History View
+FM:
+- foreign material
+FMA:
+- foreign manufacturer accreditation
+FMEA:
+- failure mode and effects analysis
+FMECA:
+- Failure Mode Effects and Criticality Analysis
+FOI:
+- freedom of information act
+FPTY:
+- first pass test yield
+FRP:
+- Functional Refractory Period
+FSB:
+- floor stock bin
+FSC:
+- floor shop control
+FSCA:
+- field safety corrective action
+FSN:
+- field safety notice
+FTP:
+- file transfer protocol
+FW:
+- Firmware
 Formal:
 - Formal round of testing before the product is implemented
+GAAP:
+- generally accepted accounting principles
+GCP:
+- good clinical practice
 GDC:
 - General Design Constraints
+GHTF:
+- Global Harmonization Task Force (core QS term)
+GLP:
+- Good Law Practice
+- Good Laboratory Practice
+GMAI:
+- general manufacturing area instructions
+GMP:
+- good manufacturing practice
+GOI:
+- graphical operator instruction
+GOP:
+- general operating procedure
+GP:
+- Guidant Policy
+GPR:
+- Guidant Puerto Rico
+GPR/CS/VI:
+- Personnel at GPR in support of the CS and VI business units
+GSC:
+- Guidant Sales Corporation
+GSM:
+- global systems methodology
 GTMS:
 - Guidant Training Management System
 GTR:
 - General Technical Requirements
+H/C:
+- hand counted
+HD:
+- harmonized document
+HE:
+- High Energy
+HED:
+- high energy defibrillation
+HF:
+- Heart Failure
+HFD:
+- Heart Failure Resynchronization Defibrillator
+HHE:
+- health hazard evaluation
+HIMA:
+- health industry manufacturers association
 HIPAA:
 - Health Insurance Portability and Accountability Act
 HL7:
 - Health Level 7 is an ANSI-recognized standards writing organization for Medical
-  Informatics.
+    Informatics.
+HOCM:
+- hypertrophic obstructive cardiomyopathy
+HP:
+- high power(hybrids)
+HR:
+- Heart Rate
 HRA:
 - Hazard Risk Analysis
+HRIS:
+- human resource information system
+HRT:
+- heart rhythm technology
+HRV:
+- Heart Rate Variability
+HTTP:
+- hypertext transfer protocol
 HV:
 - High Voltage
+HVI:
+- human visual inspection
 Heart Failure:
-- Situation when the heart is not able to deliver enough blood at normal pressures
-  toe meet the body metabolic demands - The PG is always pacing with leads in the
-  Right Atrium, Right Ventricle and Left Ventricles to maintain proper rhythm across
-  heart.
+- Situation when the heart is not able to deliver enough blood at normal pressures to meet the body metabolic demands
+- The PG is always pacing with leads in the Right Atrium, Right Ventricle and Left Ventricles to maintain proper rhythm across heart.
 Hercules:
-- Text editor for creating/editing *.xml protocols and generating python-coded test
-  protocols for Gtest
+- Text editor for creating/editing *.xml protocols and generating python-coded test protocols for Gtest
+Hz:
+- hertz
+I/O:
+- input/output
+IACUC:
+- institutional animal care and use committee
+IB:
+- investigator's brochure
 IBP:
 - Integrated Business Plan
+IC:
+- integrated circuit
 ICD:
 - Implantable Cardioverter Defibrillator
+ICH:
+- international conference on harmonisation
+ID:
+- inside diameter
 IDC:
 - India Delivery Center  Accenture
+IDE:
+- Investigational Device Exemption
+IDS:
+- information and documentation services
+IEC:
+- international electrotechnical commission
+IEEE:
+- institute of electrical and electronics engineers
+IFI:
+- Intensified Followup Indicator
+IFU:
+- instructions for use
+ILI:
+- Infodisk, Inc.
+IND:
+- investigational new drug
+INDEX:
+- integrated networked documents electronically cross referenc
+IP:
+- inspection procedure
+IPC:
+- institute for interconnecting & packaging electronic circuit
+IPV:
+- Intermediate Parameter Value
+IQ:
+- installation qualification (core QS term)
+IRB:
+- institutional review board
+IRC:
+- internal revenue code
+IRL:
+- items received log
+IRS:
+- internal revenue service
+IS:
+- inner seal
+IS-1:
+- International Standard
+ISO:
+- International Organization for Standardization -core QS term
+ISS:
+- information systems and services department
+IT:
+- inventory transfer
+- information technology
+IU:
+- installation utility
+IV:
+- intravenous
+IVD:
+- in vitro diagnostic
 Ingenio:
 - New Pacemaker  RF Enabled
 Insignia:
 - Legacy Pacemaker
+JIS:
+- Japanese industry standards
+JIT:
+- just in time
+JPAL:
+- Japan pharmaceutical affairs law
 Jira:
 - SCR Tracking system
 KDPD:
 - Knowledge Driven Product Development
 KMS:
 - Key Management System.
+KPI:
+- key performance indicators
+KRA:
+- Key Result Area
+L/N:
+- lot number
+LAFB:
+- left anterior fascicular block
+LAL:
+- limulus amebocyte lysate
+LBBB:
+- left bundle branch block
+LC:
+- label counted or US library of congress
+LCD:
+- liquid crystal display
 LCS:
 - LATITUDE Customer Support
 LDS:
 - Lead Delivery Systems (catheters)
+LECV:
+- low energy cardioversion
+LED:
+- light emitting diode
+LMS:
+- library management system
 LOC:
 - Lines of code (including white space)
 LPA:
 - Latitude Performance Assurance
+LPFB:
+- left posterior fascicular block
 LPI:
 - Latitude PaceArt Integration (PaceArt is Medtronics app which consolidates data
-  from St. Jude, Medtronic and BSC in a clinic)
+    from St. Jude, Medtronic and BSC in a clinic)
+LQTS:
+- long QT interval syndrome, congenital or acquired
+LRC:
+- legal research center
+LRL:
+- Lower Rate Limit
+LSB:
+- Least Significant Bit
+LSI:
+- large-scale integration
+LTC:
+- low temperature cofire
+LTPD:
+- lot tolerance percent defective or 2-point method
+LV:
+- Left Ventricle
+LVEF:
+- left ventricular ejection fraction
+LVPP:
+- Left Ventricular Protection Period
+LVS:
+- layout versus schematic check
+LVp:
+- Left Ventricular Pace
 Latitude:
 - Patient Management System & external instrumentation
 Leads:
 - Insulated wire used to connect the PG to the cardiac tissue.  Transmits energy to
-  the myocardium and relays signals back to the PG sensing circuit.
+    the myocardium and relays signals back to the PG sensing circuit.
+MA:
+- Medical Adhesive
+MACHS:
+- Multi-chamber Advanced Capability Heart Simulator
 MACHSIM:
-- Multichamber Advanced Capability Heart Simulator - heart simulator that connects
-  to a PG
+- Multi-chamber Advanced Capability Heart Simulator
+MAH:
+- marketing authorization holder
+MARC:
+- minimum acceptable recovery requirements
+MATR:
+- Maximum Atrial Tracking Rate
+MATS:
+- material archiving transmission system
+MATT:
+- Manufacturing Automated Traceability and Tracking
+MAU:
+- multiple application utility
+MBD:
+- Model-Based Development
+MCL:
+- modified chest lead
+MCR:
+- manufacturing change request
+MCS:
+- modular composition system
+MCT:
+- micro component technology
+MDA:
+- medical devices agency (formerly DHSS)
+MDD:
+- medical device directive
+- medical devices and diagnostics
 MDDS:
 - Medical Device Data System
+MDR:
+- medical device report (core QS term)
+MDVR:
+- medical device vigilance report
+MERT:
+- medical emergency response team
+MHLW:
+- ministry of health, labor and welfare (Japan)
+MI:
+- myocardial infraction (heart block)
+- Manufacturing Instructions
 MIG:
 - Master Image Generation
+MIS:
+- medical instrument systems
+- minimally invasive surgery
+MOL:
+- manufacturing online
+MOL1:
+- Middle Of (battery) Life 1
+MOL2:
+- Middle Of (battery) Life 2
+MP:
+- manufacturing procedure
+MP2:
+- equipment maintenance management system
+MR:
+- medical records department
+MRB:
+- material review board
+MRP:
+- material requirements planning
+MS:
+- manufacturing scrap
+MSB:
+- Most Significant Bit
+MSDS:
+- material safety data sheet
+MSR:
+- Maximum Sensor Rate
+MTR:
+- Maximum Tracking Rate
+MUGA:
+- MUGA
+MV:
+- Minute Ventilation
+MVRF:
+- Minute Ventilation Response Factor
+MVT:
+- Monomorphic Ventricular Tachycardia
+Mfg:
+- manufacturing department
+Min:
+- Accelerometer
+MnO2:
+- Manganese Dioxide battery
+N/A:
+- Not Available
+- Not Applicable
+N/V:
+- non-verified count
 NA:
 - North America
+NASA:
+- National Aeronautics and Space Administration
+NASPE:
+- North American Society of Pacing and Electrophysiology
+NB:
+- none banked
+- notified body
+NBG:
+- Consolidate abbreviation of NASPE and BPEG
+NCA:
+- national competent authority
+NCAR:
+- national competent authority report
 NCLOC:
 - Non-Commented lines of code (only lines of executable code)
+NCSL:
+- national computer system laboratory
+NEMA:
+- national electrical manufacturers association
+NERAC:
+- NERAC
+NFPA:
+- national fire protection association
 NGP:
 - New Generation Programmer
+NIPS:
+- non-invasive programmed stimulation
+NIST:
+- national institute of standards and technology
+NPD:
+- new product development
+NPP:
+- New Product Planning
+NRC:
+- Noise Reversion Circuit
+NRE:
+- Non Recurring Engineering Charge
+NRS:
+- Normal Sinus Rhythm
+NSR:
+- non-significant risk
+- Normal Sinus Rhythm
+NSVT:
+- Non-Sustained Ventricular Tachycardia
+NTIS:
+- national technical information service
+NVA:
+- non-value added
+NYHA:
+- New York heart association classification
+None:
+- inventory control codes
+OAT:
+- optical alignment target
+OBDE:
+- One Button Detection Enhancement
+ODDSR:
+- optical disk document storage and retrieval
+OEG:
+- officer escalation group
+OEM:
+- Original Equipment Manufacturer
+OJT:
+- on-the-job training
+OLB:
+- outer lead bond
+OMT:
+- outside the United States manufacturing
+OOD:
+- Object Oriented Design
+OOP:
+- Object Oriented Programming
+OOS:
+- out-of-service
+OP:
+- operation number
+OPAC:
+- online public access
+OPAL:
+- Online Performance And Learning
+OQ:
+- operational qualification (core QS term)
+OR:
+- Operating Room
+OSHA:
+- occupational safety and health administration
+OTSS:
+- Off-the-Shelf Software
 OUS:
-- Outside United States
-Other BSC:
-- Implantable cardiac pacing and defibrillation leads, Stents and other therapies
+- outside United States
+P/N:
+- part number
+PA:
+- product assurance
+- pulmonary artery
+PAC:
+- paper authorization control
+- Paper Authorization Change
+- Premature Atrial Contraction
 PADR:
 - Performance Achievement and Development Review
+PAL:
+- Product Approval Letter
+PAT:
+- post atrial therapy
+- paroxysmal atrial tachycardia
+PAV:
+- paced AV delay
+PC:
+- personal computer
+- Program Counter
+PCB:
+- printed-circuit board
+PCE:
+- process control engineer
+PCS:
+- process change specialist
+PCSB:
+- pre-clinical studies building
+PCSR:
+- production control supply request
+PCTA:
+- Patient Controlled Therapy Activator
+PDL:
+- Program Design Language
 PDM:
-- product data management 
+- Product data management (Winchill)
+- Pulsar/Discovery/Meridian
+PDM tool:
+- Product Data Management tool
 PDP:
 - Product Development Program
+- product development process
+PDS:
+- project development services department
+PDX:
+- Performance Development Excellance
+PE:
+- performance excellence
 PEC:
 - Product Evaluation Committee
+PEDL:
+- product evaluation document list
 PEI:
 - Patient Equipment Information
+- pre-ejection interval
+PERF:
+- performance requirement
+PES:
+- Programmed Electrical Stimulation
+- programmable electron systems
+PETCO2:
+- end-tidal partial pressure of carbon dioxide
+PETO2:
+- end-tidal partial pressure of oxygen
 PFR:
 - Patients for Review  Main page in Latitude
 PG:
@@ -256,35 +1123,97 @@ PG:
 PHI:
 - Protected Health Information
 PIB:
-- Project Investment Board
+- project investment board
 PID:
-- Patient Identifier  
+- Patient Identifier
 PII:
 - Patient Initiated Interrogation
+PIR:
+- Parameter Interaction Requirements
 PKI:
-- Public Key Infrastructure  digital certificates, certificate authorities, and other
-    registration authorities that authenticate each party involved in an electronic
-    transaction
+- Public Key Infrastructure
 PLE:
 - Product Line Engineering
 PLM:
 - Product Line Model, also called Product Line Engineering
+- product lifecycle management
 PMA:
 - Pre-market approval
+PMCE:
+- project management center of excellence
+PMDA:
+- pharmaceuticals and medical devices agency
+PMF:
+- product master file
+PMN:
+- premarket notification
+PMP:
+- Project Management Professional
+PMS:
+- pantone matching system standard
+PMT:
+- Pacemaker Mediated Tachycardia
+PO:
+- purchase order
+POC:
+- Pace On Command
+POP:
+- Proof of Principle
+POR:
+- Power On Reset
+PPA:
+- production planning analysis department
 PPC:
 - Product Performance Committee
+PPI:
+- Power Protection Indicator
+PPM:
+- Pulses Per Minute
+- Product and Program Management
+PPO:
+- Pulse Pressure Optimization
+PQ:
+- performance qualification (core QS term)
+PR:
+- peer review
 PRA:
+- Product Release Authorization
 - Product Release Approval
+PRCHSD:
+- purchased
+PRDL:
+- product reference document list
+PRL:
+- product release letter
 PRM:
-- Programmer Recorder Monitor
+- Programmer/Recorder/Monitor
 PRS:
 - Programmer Requirements Specification
+PS:
+- Process Sequence (PS) reports
+PSA:
+- Pacing System Analyzer
+PSC:
+- product standard code
+- project strategy committee
+PSI:
+- pounds per square inch
+- power supply interface
+PSM:
+- product structure management
 PT:
 - Patient
-PVCS Tracker:
-- Tool used to track and manage SCRs & DRs
-PVCS Version Manager:
-- Program Version Control System 
+PTM:
+- Patient Trigger Monitor
+PVARP:
+- post ventricular refractory period
+- Post ventricular atrial refractory period
+PVC:
+- Premature Ventricular Contraction
+PVCS:
+- Intersolv Polytron Version Control System
+PVT:
+- polymorphic ventricular tachycardia
 Payload:
 - XML representation of patient data
 PrecisionPlus:
@@ -292,149 +1221,571 @@ PrecisionPlus:
 Programmer:
 - Device used in clinic to read and program the PG
 Promus:
-- Coronary Stent System - third-generation drug-eluting stent (DES) technology
+- Coronary Stent System
+- third-generation drug-eluting stent (DES) technology
 Protocol:
 - One or more tests that are meant to run during actual testing
 PuTTY:
 - Tool to connect to a unix server thru a pc
+QA:
+- quality assurance
+QAU:
+- quality assurance unit
+QC:
+- quality control
+QCRI:
+- Quality Control Receiving Inspection
+QE:
+- quality engineer
+QFD:
+- quality function development
+QI&T:
+- Quality Information & Technology
+QIT:
+- quality improvement team
+QML:
+- Qualified Manufacturers List
+QNX:
+- QNX
+QSAT:
+- Quality System Assurance Team
+QSR:
+- quality systems review
 QTP:
 - Mercury Quick Test Professional - automated test tool
+R:
+- resistance
+R&D or RND:
+- research and development
+R&TTE:
+- radio & telecommunications terminal equipment
+RA:
+- reliability assurance department
+- Right Atrial
 RACI:
+- responsible approve consult inform
 - Responsibility, Accountable, Consulted, Informed
+RAF:
+- Risk Assessment Form
+RAM:
+- Random Access Memory
+RAN:
+- Remedial Action Notice
+RAP:
+- restricted alternative procedure
+- Rate Adaptive Pacing
 RAPID:
 - Recommend, Agree, Perform, Input, Decide
 RAPIDO:
 - Lead guiding catheter system
+RAR:
+- reliability analysis report
 RAS:
-- Regulated Application Server 
+- regulated application server
 RASDVT:
 - Sub-System Design Verification Test of RAS Tests Subsystem Requirements (Art)
-VT:
-- ventricular Tachycardia
-SVT:
-- supraventricular Tachycardia
-PA:
-- pulmonary artery
+RBAC:
+- role-based access control
+RBBB:
+- right bundle branch block
+RBS:
+- risk breakdown structure
+RC:
+- replace capacitor
+- research coordinator
+RCM:
+- regional clinical manager
 RDM:
 - Remote Device Management
 REA:
-- Ripple Effect Analysis  
+- Ripple Effect Analysis
+RER:
+- respiratory exchange ratio
+RET:
+- returns and event tracking database
 RF:
-- Radio Frequency  
+- Radio Frequency
+RFC:
+- request for change
+RFI:
+- radio frequency interference
+RFP:
+- request for proposal
+RFQ:
+- request for quotation
+RGA:
+- returned goods authorization
+- residual gas analysis
 RGB:
 - RTC Governance Board
+RI:
+- receiving inspection
+RID:
+- rhythm identification/ rhythm ID
+RIH:
+- rework in house
+RILT:
+- receiving inspection locator ticket
+RIP:
+- receiving inspection procedure
+RMA:
+- returned material authorization
+ROI:
+- return on investment
 ROM:
-- Rough Order of Magnitude 
-RRP or URRP:
-- Raw Register Programmer 
+- Rough Order of Magnitude
+- read only memory
+RPE:
+- relative perceived exertion
+RPR:
+- returned products report
+RPS:
+- required postmarket surveillance
+RRC:
+- records retention center
+RRP:
+- Relative Refractory Period
+- Raw Register Programmer
+RS:
+- Rate Smoothing
+RSD:
+- Rate Smoothing Down
+RSU:
+- Rate Smoothing Up
 RTC:
 - Rational Team Concert
+- research and technology center
+RTM:
+- requirements traceability matrix
 RTR:
 - Real Time Review
+RTV:
+- return to vendor
+RUP:
+- rational unified process
+RV:
+- Right Ventricle
+RVp:
+- Right Ventricular Pace
+RVs:
+- Right Ventricular Sense
 Red Alert:
 - XML representation of patient data who has a warning or alert
 Reliance G:
 - ICD lead (Reliance, Reliance S, Reliance EZ, Reliance SEZ)
+RoHS:
+- restriction of hazard substances directive
+S/C:
+- scale counted
+SA:
+- shipping authorization
+- sinoatrial node
+SADE:
+- serious adverse device effect
+SAE:
+- serious adverse event
 SAM:
-- System Asset Manager 
+- System Asset Management
+- System Asset Manager
+SAN:
+- stop/start action notice
 SAP:
 - Systems, Applications, and Products
 SAS:
 - Supplemental Application Server - earlier name given to RAS.
+SAV:
+- Sensed AV Offset
+- Sensed AV Delay
+SBR:
+- Sudden Bradycardia Response
+SCAR:
+- Supplier Corrective Action Request
+SCARs:
+- Supplier Corrective Action Requests
 SCD:
 - Sudden Cardiac Death
 SCM:
 - Software Configuration Management
+SCMP:
+- software configuration management plan
 SCR:
-- System Change Request 
+- Strip Chart Recorder
+- System Change Request
+SD:
+- standard deviation
+SDANN:
+- Standard Deviation of Averaged Normal iNtervals
+SDD:
+- software design document
+SDG:
+- supplier development group
+SDO:
+- Standards Developing Organization
+SDP:
+- software development plan
+SDS:
+- software design specification
+SE:
+- standard error
+SEC:
+- securities and exchange commission
 SEP:
 - System Evaluation Plan
+SEU:
+- Single Event Upset
+SFC:
+- shop floor control
+SIP:
+- standard inspection procedure
+SIR:
+- system incident report
+- software incident report
+- Sensor Indicated Rate
+SJU:
+- San Juan
+SLR:
+- service level requirements
+SLS:
+- Short-Long-Short coupling interval
+SMART:
+- supplier measurement automation report and trace
+SMDA:
+- safe medical device act
+SME:
+- subject matter expert
+SMP:
+- standard manufacturing procedure
 SMR:
 - Software Maintenance Release
+SMRB:
+- software maintenance release board
+SMTR:
+- Sensed Maximum Pacing Rate
+SN:
+- serial number
+SNAC:
+- serial number allocation
+SND:
+- Sinus Node Dysfunction
 SOP:
-- Standard Operating Procedures
+- Standard Operating Procedure
 SOS:
 - System of Systems also Scrum of Scrums
+SPC:
+- statistical process control
+SPI:
+- sterile packaging inspection
+SPIKE:
+- system process improvement/ knowledge engineering
+SPMA:
+- supplemental pre-market approval
+PMAS:
+- PMA supplement
+SPVARP:
+- Sensed Post Ventricular Atrial Refractory Period
+SPW:
+- Session Password
+SQ:
+- software qualification
+SQA:
+- software quality assurance
+SQC:
+- statistical quality control
+SQE:
+- supplier quality engineer
+SQPP:
+- supplier quality partnership plan
+SR:
+- Single-Chamber Rate-Adaptive
+- significant risk
 SRA:
+- The security risk assessment
 - Safety Risk Analysis
+- Sensor Rectified Average
 SRD:
+- Sustained Rate Duration
+- Sensor Research Device
 - System Research Device
 SRS:
 - Software Requirements Specification
+SSC:
+- supplier, subcontractor, consultant
 SSO:
 - Single sign-on
+SSS:
+- Sick Sinus Syndrome
+ST:
+- Sinus Tachycardia
+STM:
+- standard test method
+STPD:
+- standard temperature, pressure and dry condition
+SV:
+- stroke volume
+SVC:
+- superior vena cava
+SVO:
+- Silver Vanadium Oxide battery
+SVS:
+- Software Verification Systems
+SVT:
+- Supra Ventracular Tachicardia
+- Sinus Ventricular Tachycardia
+- Supraventricular Tachycardia
+- normal conduction vector
+SWE:
+- software engineering department
 SWO:
-- Special Work Order  
+- Special Work Order
 SYSDAT:
 - System Design Analysis Testing
 SYSDVT:
-- System Design Verification Test  
+- System Design Verification Test
+SceDL:
+- scenario definition language
+SyDD:
+- system design document
+SyDS:
+- system design specification
+SyRS:
+- system requirement specification
 System:
 - System
+TAB:
+- tape automated bonded
+TAC:
+- Technical Advisory Council
+TAG:
+- Technical Assessment Grant
+TAPPI:
+- technical association of the pulp and paper industry
+TAR:
+- tape archive
+TARP:
+- total atrial refractory period
+TCO:
+- Temporary Change Orders (TCO)
+TCP/IP:
+- transmission control protocol/internet protocol
 TDP:
 - Technology Development Program
+TED:
+- test engineering database
+TES:
+- Test Environment Specification
+TGA:
+- Therapeutic Goods Administration (AU)
+TIB:
+- temporary import bond
+TINMAN:
+- test information for manufacturing
+TIP:
+- TRaC imaging project
+TIS:
+- Telemetry Interface Specification
+TLCC:
+- telemetry leadless chip carrier
 TMS:
-- Traceability Management System 
+- Traceability Management System
+TMT:
+- Technology Management Team
+- threshold margin test
+TMV:
+- test method validation
+TO:
+- transfer order
 TOAD:
 - SQL editor used to query database
+TPD:
+- Therapeutic Products Directorate (Health Canada)
+TPO:
+- treatment, payment, and operations
+TPS:
+- Telemetry Protocol Specification
+- test procedure specification
+TQC:
+- total quality control
+TQM:
+- total quality management
 TRR:
 - Test Readiness Review
+TRS:
+- test requirement specification
+TRaC:
+- traceability, reliability and customer
+TSC:
+- Technical Standards Committee
 TTM:
+- Temporary Tachy Mode
 - Telemetry Test Module
+TU:
+- touch-up
+TV:
+- tooling defined dimensions
+TWO:
+- tooling work order
 TWiKi:
 - Website contains all the project related data
 TZM:
 - Time Zone Management
 Tachy:
+- Tachycardia Relatively rapid heart action. (Defibulator)
 - A pathologic or physiologic rapid heart rate, typically greater than 100 bpm (Tachycardia).High
-  Voltage Pulse Generator (HVPG)  Implantable Cardiac Defibrillators (ICD) with
-  leads in the Right Atrium and Right Ventricle.
+    Voltage Pulse Generator (HVPG)  Implantable Cardiac Defibrillators (ICD) with
+    leads in the Right Atrium and Right Ventricle.
 Taxus:
 - Drug-eluting stent (DES) technology
 Teligen:
-- Implantable Cardioverter Defibrillator (ICD) 
-Test:
-- QTP script for the protocol
+- Implantable Cardioverter Defibrillator (ICD)
+TxHx:
+- therapy history
+UAI:
+- use as is
+UAT:
+- user acceptance test
+UBD:
+- use by date or use before date
 UC:
 - Use Case  form of requirements
 UEMR:
 - Universal Electronic Medical Records
+UI:
+- user interface
 UIS:
-- User Interface Specification  
+- User Interface Specification
 UIT:
 - Unit and Integration Testing
+UKDH:
+- United Kingdom Department of Health
+UL:
+- underwriters laboratories
+UML:
+- unified modeling language
+UOM:
+- unit of measure
 UP:
-- User Parameter 
+- User Parameter
+UPN:
+- universal product number
+UPS:
+- User Parameters Specification
 URL:
 - Uniform Resource Locater
+- Upper Rate Limit
+UME:
+- unreimbursed medical expense
+URRP:
+- Universal Raw Register Programmer
 US:
+- United States
 - Deployment which support the United States
+USADE:
+- unanticipated serious adverse device effect
+USB:
+- Universal Serial Bus
+USP:
+- United States pharmacopeia
+UUT:
+- unit under test
 UVO:
 - User Visible Observation
 V&SU:
 - Validation and Scale-up
 V&V:
 - Verification and Validation
+VA:
+- ventriculoatrial
+VAI:
+- Ventricle to Atrium Interval
+VCO2:
+- carbon dioxide production
+VF:
+- Ventricular Fibrillation
+VI:
+- virtual instrument
+- Vascular Intervention
 VNC:
-- Virtual Network Computing  
+- Virtual Network Computing
+VO2:
+- oxygen uptake
+VO2 Max:
+- maximum oxygen consumption (ml/min)
 VOB:
 - Voice of the Business
 VOC:
 - Voice of the Customer
+VP:
+- Ventricular Pace
+VR:
+- VVIR Pacing modality
+- single-chamber tachycardia
+- Ventricular Rate-Adaptive
+VRP:
+- Ventricular Refractory Period
+VRR:
+- Ventricular Rate Regulation
+VS-1:
+- voluntary standard
+VT:
+- abnormal conduction vector
+- Ventricular Tachycardia
+VT-1:
+- Slow Ventricular Tachycardia
+VTC:
+- video teleconference
+- vector timing and correlation
+VTR:
+- Ventricular Tachy Response
 Validation:
 - Proves that the device/system design specifications meet defined user needs and
-  intended uses
+    intended uses
 Verification:
 - Confirms the device/system design meets design input requirements.
+Vs:
+- Ventricular Sense
 WAS:
-- Web Application Server 
+- Web Application Server
 WASDVT:
-- Sub-System Design Verification Test of WAS  
+- Sub-System Design Verification Test of WAS
+WBS:
+- work breakdown structure
+WEEE:
+- waste electrical and electronic equipment
+WI:
+- work instructions (core QS term)
+WIP:
+- work in process
+WIT:
+- within tolerance
+WWW:
+- world wide web
 WebDAV:
-- Web-based Distributed Authoring and Versioning.  
+- Web-based Distributed Authoring and Versioning.
 Windchill:
 - System for managing documents & peer reviews
+XBU:
+- cross business unit
+XL:
+- Accelerometer
 XML:
 - Extensible Markup Language
+XOR:
+- exclusive OR
 XP:
 - Extreme Programming
+bpm:
+- beats per minute
+bps:
+- beats per second
+- bits per second
+cGMP:
+- current good manufacturing practice
+e-CRF:
+- electronic case report form
+mA:
+- microampere
+- milliamp
+ms:
+- millisecond
+prEN:
+- preliminary European norm
